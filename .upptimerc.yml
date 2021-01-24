@@ -8,7 +8,7 @@ sites:
     url: https://www.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
   - name: Blog 
-    url: https://www.blog.yasan.dev
+    url: https://blog.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
   - name: Shop 
     url: https://shop.spreadshirt.com/YASAN
