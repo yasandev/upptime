@@ -8,11 +8,9 @@ sites:
     url: https://www.yasan.dev
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
+  theme: dark
   cname: status.yasan.dev
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://yasan.dev/yasan_logo_dark_color.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: YASAN Status
   navbar:
     - title: Status
@@ -20,5 +18,4 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# https://upptime.js.org/docs/configuration
