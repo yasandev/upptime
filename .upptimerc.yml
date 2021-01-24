@@ -4,18 +4,18 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: YASAN NYC Server
+  - name: NYC Server
     url: https://www.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
-  - name: YASAN Blog 
+  - name: Blog 
     url: https://www.blog.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
-  - name: YASAN Shop 
+  - name: Shop 
     url: https://shop.spreadshirt.com/YASAN
     icon: https://yasan.dev/yasan_logo_light_pure.png
 
 status-website:
-  theme: dark
+  theme: ocean
   cname: status.yasan.dev
   logoUrl: https://yasan.dev/yasan_logo_light_color_pure.png
   name: YASAN Status
