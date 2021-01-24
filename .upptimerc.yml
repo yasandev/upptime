@@ -15,7 +15,8 @@ sites:
     icon: https://yasan.dev/yasan_logo_light_pure.png
 
 status-website:
-  themeUrl: https://status.yasan.dev/yasan-theme.css
+  theme: dark
+#  themeUrl: https://status.yasan.dev/yasan-theme.css
   cname: status.yasan.dev
   logoUrl: https://yasan.dev/yasan_logo_light_color_pure.png
   name: YASAN Status
