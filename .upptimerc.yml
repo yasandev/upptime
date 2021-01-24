@@ -7,12 +7,18 @@ sites:
   - name: NYC Server
     url: https://www.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
+    assignees:
+      - yasandev
   - name: Blog 
     url: https://blog.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
+    assignees:
+      - yasandev
   - name: Shop 
     url: https://shop.spreadshirt.com/YASAN
     icon: https://yasan.dev/yasan_logo_light_pure.png
+    assignees:
+      - yasandev
 
 status-website:
   theme: dark
