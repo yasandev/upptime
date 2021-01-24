@@ -19,6 +19,11 @@ sites:
     icon: https://yasan.dev/yasan_logo_light_pure.png
     assignees:
       - yasandev
+  - name: Translation Center  
+    url: https://translation.yasan.dev
+    icon: https://yasan.dev/yasan_logo_light_pure.png
+    assignees:
+      - yasandev
 
 status-website:
   theme: dark
