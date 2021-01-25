@@ -26,11 +26,11 @@ sites:
       - yasandev
 
 status-website:
-  theme: dark
-#  themeUrl: https://status.yasan.dev/yasan-theme.css
+  themeUrl: https://yasan.dev/yasan-theme.css
   cname: status.yasan.dev
   logoUrl: https://yasan.dev/yasan_logo_light_color_pure.png
   name: YASAN Status
+  favicon: https://yasan.dev/yasan_logo_light_color_pure.png
   navbar:
     - title: Status
       href: /
