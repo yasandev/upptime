@@ -23,11 +23,11 @@
     "icon": "https://yasan.dev/yasan_logo_light_pure.png",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 231,
     "timeDay": 331,
     "timeWeek": 231,
@@ -60,17 +60,19 @@
     "url": "https://translation.yasan.dev",
     "icon": "https://yasan.dev/yasan_logo_light_pure.png",
     "slug": "translation-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 998,
-    "timeDay": 801,
-    "timeWeek": 998,
-    "timeMonth": 998,
-    "timeYear": 998,
-    "dailyMinutesDown": {}
+    "time": 931,
+    "timeDay": 568,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
+    "dailyMinutesDown": {
+      "2021-01-29": 0
+    }
   }
 ]
