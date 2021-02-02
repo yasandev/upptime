@@ -60,17 +60,19 @@
     "url": "https://translation.yasan.dev",
     "icon": "https://yasan.dev/yasan_logo_light_pure.png",
     "slug": "translation-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 1579,
-    "timeWeek": 864,
-    "timeMonth": 940,
-    "timeYear": 940,
-    "dailyMinutesDown": {}
+    "time": 906,
+    "timeDay": 984,
+    "timeWeek": 817,
+    "timeMonth": 906,
+    "timeYear": 906,
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   }
 ]
