@@ -4,13 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: NYC Server
+  - name: Server
     url: https://www.yasan.dev
-    icon: https://yasan.dev/yasan_logo_light_pure.png
-    assignees:
-      - yasandev
-  - name: Blog 
-    url: https://blog.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
     assignees:
       - yasandev
