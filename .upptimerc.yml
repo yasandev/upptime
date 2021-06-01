@@ -4,7 +4,7 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Server
+  - name: Toronto Server
     url: https://www.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
     assignees:
@@ -15,7 +15,7 @@ sites:
     assignees:
       - yasandev
   - name: Translation Center  
-    url: https://translation.yasan.dev
+    url: https://translate.yasan.dev
     icon: https://yasan.dev/yasan_logo_light_pure.png
     assignees:
       - yasandev
