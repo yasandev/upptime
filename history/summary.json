@@ -1,20 +1,20 @@
 [
   {
-    "name": "Server",
+    "name": "Toronto Server",
     "url": "https://www.yasan.dev",
     "icon": "https://yasan.dev/yasan_logo_light_pure.png",
-    "slug": "server",
+    "slug": "toronto-server",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 67,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 301,
-    "timeDay": 313,
-    "timeWeek": 310,
+    "timeDay": 285,
+    "timeWeek": 304,
     "timeMonth": 254,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
   },
   {
     "name": "Translation Center",
-    "url": "https://translation.yasan.dev",
+    "url": "https://translate.yasan.dev",
     "icon": "https://yasan.dev/yasan_logo_light_pure.png",
     "slug": "translation-center",
     "status": "up",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 775,
-    "timeDay": 528,
-    "timeWeek": 766,
-    "timeMonth": 781,
-    "timeYear": 775,
+    "time": 773,
+    "timeDay": 541,
+    "timeWeek": 742,
+    "timeMonth": 774,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2021-03-15": 19
     }
